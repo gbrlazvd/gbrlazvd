@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel @gbrlazvd
-- 👀 I’m interested in develop my skills in tech, more especific in topics related to data science.
+- 👀 I’m interested in develop my skills in tech, more especific in topics related to Data Analytics and Data Science.
 - 🌱 I’m currently learning Python, SQL and visualization tools like Power BI and Google Data Studio.
 - 💞️ I’m looking to collaborate on projects that will improve and teach me new abilities.
 - 📫 How to reach me:
