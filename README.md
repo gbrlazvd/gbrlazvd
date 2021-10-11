@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on projects that will improve and teach me new abilities.
 - 📫 How to reach me:
     Linkedin: https://www.linkedin.com/in/gbrlazvd/
+    E-mail: gbrlazvd@gmail.com
      
 
 <!---
